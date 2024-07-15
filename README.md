@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Fully responsive clone of the Nike landing page using Tailwind CSS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
