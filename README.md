@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 Fully responsive clone of the Nike landing page using Tailwind CSS.
-https://github.com/TalhaAbbas-code/NikeLandingPage/blob/ea659b61b60b6ad6365e951a88a5cb0faa0a9ae4/Screenshot%20(42).png
+
 <img src="https://github.com/TalhaAbbas-code/NikeLandingPage/blob/ea659b61b60b6ad6365e951a88a5cb0faa0a9ae4/Screenshot%20(42).png" alt="Project Screenshot" >
 <img src="https://github.com/TalhaAbbas-code/NikeLandingPage/blob/ea659b61b60b6ad6365e951a88a5cb0faa0a9ae4/Screenshot%20(43).png" alt="Project Screenshot" >
 <img src="https://github.com/TalhaAbbas-code/NikeLandingPage/blob/ea659b61b60b6ad6365e951a88a5cb0faa0a9ae4/Screenshot%20(46).png" alt="Project Screenshot" >
